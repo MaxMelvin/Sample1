@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+a=5
+b=10
+add=a+b
+print(add)
